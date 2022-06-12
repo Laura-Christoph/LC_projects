@@ -9,7 +9,6 @@ My name is Laura and I am about to finish my very first semester at the UZH!
     - This project is what I call a "playground". 
     - Basically, I will never completely finish it, it's more intended to try out fancy things without any plan.
     - This project is supposed to display the grades.
-    - 
 
 ### My projects, related to my lectures
 - I still have to ask my friends whether they are okay with me publishing it or not.
