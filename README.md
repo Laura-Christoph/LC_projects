@@ -3,6 +3,9 @@
 My name is Laura and I am about to finish my very first semester at the UZH!
 
 
+
+
+
 ## My projects
 ### My projects, unrelated to my lectures
 - [Grades]([https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://gitlab.uzh.ch/laura.christoph/grades_v1))
