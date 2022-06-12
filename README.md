@@ -1,14 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to my portfolio
 
-hello world
-[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+My name is Laura and I am about to finish my very first semester at the UZH!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# My projects
+## My projects, unrelated to my lectures
+- [Grades]([https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://gitlab.uzh.ch/laura.christoph/grades_v1))
+    - This project is what I call a "playground". 
+    - Basically, I will never completely finish it, it's more intended to try out fancy things without any plan.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## My projects, related to my lectures
+- I still have to ask my friends whether they are okay with me publishing it or not.
+
 
 ### Jekyll Themes
 
