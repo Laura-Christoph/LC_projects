@@ -16,6 +16,3 @@ My name is Laura and I am about to finish my very first semester at the UZH!
 ## Contact me
 - If you have any suggestions or questions regarding my projects, contact me via [e-mail](mailto:laura.christoph@uzh.ch)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
