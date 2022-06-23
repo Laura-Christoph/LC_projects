@@ -1,6 +1,6 @@
 # Welcome to my portfolio
 
-My name is Laura and I am about to finish my very first semester at the UZH!
+My name is Laura and I just finished my very first semester at the UZH!
 
 
 
