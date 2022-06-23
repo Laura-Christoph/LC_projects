@@ -8,7 +8,7 @@ My name is Laura and I just finished my very first semester at the UZH!
 
 ## My projects
 ### My projects, unrelated to my lectures
-- [Grades]([https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://gitlab.uzh.ch/laura.christoph/grades_v1))
+- [Grades](grades_v1-master.zip)
     - This project is what I call a "playground". 
     - Basically, I will never completely finish it, it's more intended to try out fancy things without any plan.
     - This project is supposed to display the grades.
